@@ -494,8 +494,13 @@ In publications, the author entry for yourself is identified by string array `sc
 
 ```yaml
 scholar:
+<<<<<<< HEAD
+  last_name: [Dai]
+  first_name: [Yue, Y.]
+=======
   last_name: [Einstein]
   first_name: [Albert, A.]
+>>>>>>> 6f34e9b49507847c9d4bcefbe20973aab38e5f64
 ```
 
 If the entry matches one form of the last names and the first names, it will be underlined.
@@ -503,6 +508,12 @@ Keep meta-information about your co-authors in `_data/coauthors.yml` and Jekyll 
 The co-author data format in `_data/coauthors.yml` is as follows,
 
 ```yaml
+<<<<<<< HEAD
+"Lin":
+  - firstname: ["Zhouchen", "Z."]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+
+=======
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
@@ -521,6 +532,7 @@ The co-author data format in `_data/coauthors.yml` is as follows,
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+>>>>>>> 6f34e9b49507847c9d4bcefbe20973aab38e5f64
 ```
 
 If the entry matches one of the combinations of the last names and the first names, it will be highlighted and linked to the url provided.
