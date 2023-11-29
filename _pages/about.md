@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Yue Dai. Recently, I received my master degree in Software Engineering at Tsinghua University, Beijing, 2023. Prior to that, I got my bacherlor of Science in Software Engineering at Beihang University, a.k.a Beijing University of Areonautics and Astronautics. 
 
-I'm recruting suitable research position. Feel free to contact to me. 
+I'm __recruting suitable research positions__. Feel free to contact to me. 
