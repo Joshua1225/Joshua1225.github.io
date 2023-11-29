@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm __recruting research positions__ about  __3D vision__,  __Deep learning__. 
+I'm __looking for research positions__ about  __3D Vision__,  __Deep Learning__, including PH.D and jobs. 
